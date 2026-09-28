@@ -1,0 +1,13 @@
+{
+  "name": "blastkart-browser-racer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "3D arcade browser kart racer for up to 10 players, with bots filling empty slots.",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
